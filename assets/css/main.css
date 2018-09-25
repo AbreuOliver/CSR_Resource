@@ -2580,7 +2580,7 @@
 
 		table td {
 			padding: 0.75rem 0.75rem;
-			align-items: center; <-- //////////////////////////////// -->
+			/* align-items: center; <-- //////////////////////////////// --> */
 		}
 
 		table th {
@@ -2871,7 +2871,7 @@
 
 		.wrapper.style2 {
 			background-color: #f2f2f2;
-			color: #a6a6a6;
+			color: black; <!-- OLIVER CHANGE --
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
